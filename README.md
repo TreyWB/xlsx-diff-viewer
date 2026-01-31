@@ -10,7 +10,7 @@ A lightweight web application that lets you drag-and-drop two Microsoft Excel wo
 3. Open http://localhost:3000
 4. Drop two `.xlsx` files and watch the diff appear instantly
 
-##Development
+## Development
 ```bash
 npm install
 npm run dev      # start dev server
