@@ -1,5 +1,7 @@
 node_modules/
-uploads/
+uploads/*
 .DS_Store
 *.log
 .claude/
+
+!uploads/.gitkeep
